@@ -9,7 +9,7 @@ all listed products in data base.
 
 Just all the files in the folder to webroot directory and edit database config files.
 
-Check the live version: http://mycutoff.in/
+Check the live version: http://mycutoff.in/ (The demo is offline now)
 
 For unmanaged linux hosting visit: http://bit.ly/29sTWsr
 
