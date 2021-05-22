@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /verify.php?id=Mg==&code=*
+Disallow: /mylist.php
+Disallow: /home.php
+Disallow: /app
+Disallow: /app/*
+Disallow: /cron/*
+Disallow: /assets/*
+Disallow: /mailer/*
+Disallow: /bootstrap/*
