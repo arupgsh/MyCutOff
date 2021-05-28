@@ -7,7 +7,7 @@ all listed products in data base.
 
 ## Installation
 
-Just all the files in the folder to webroot directory and edit database config files.
+Just put all the files in the folder to webroot directory and edit database config files.
 
 Check the live version: http://mycutoff.in/ (The demo is offline now)
 
